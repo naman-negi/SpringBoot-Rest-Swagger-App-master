@@ -34,7 +34,8 @@ public class SwaggerConfig {
 					"1.0",
 					"Terms of service", 
 					 new Contact(
-							 "Naman",  
+							 "Naman",
+						         "http://www.naman.com/",
 							 "namanv2@gmail.com"
 					),
 					"Apache License Version 2.0",
